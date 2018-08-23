@@ -11,4 +11,4 @@ echo
 
 locale-gen ko_KR.UTF-8
 
-apt install -y apt-transport-https ca-certificates git htop
+apt install -y apt-transport-https ca-certificates git htop gnome-tweak-tool
