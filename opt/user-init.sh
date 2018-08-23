@@ -6,6 +6,9 @@ gsettings set org.gnome.desktop.peripherals.keyboard repeat-interval 11
 
 gsettings set org.gnome.shell enable-hot-corners true
 
+gsettings set org.gnome.shell.extensions.dash-to-dock autohide true
+gsettings set org.gnome.shell.extensions.dash-to-dock dock-position 'RIGHT'
+
 gsettings set org.gnome.gedit.preferences.encodings candidate-encodings "['UTF-8','UHC','UTF-16']"
 
 gsettings set org.gnome.desktop.interface gtk-theme "Numix"
